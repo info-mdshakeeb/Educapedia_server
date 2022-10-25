@@ -1,34 +1,32 @@
 [
   {
     "id": "01",
-    "name": "Breaking News"
+    "name": "Python Course",
+    "picture": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png"
   },
   {
     "id": "02",
-    "name": "Regular News"
+    "name": "Javascript Course",
+    "picture": "https://i0.wp.com/onlinecoursesgalore.com/wp-content/uploads/2018/01/best-javascript-programming-courses-online.jpg?ssl=1"
   },
   {
     "id": "03",
-    "name": "International News"
+    "name": "C Course",
+    "picture": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png"
   },
   {
     "id": "04",
-    "name": "Sports"
+    "name": "C+ Course",
+    "picture": "https://miro.medium.com/max/1200/1*oFfl-1UKLtd8XOswpwgriA.png"
   },
   {
     "id": "05",
-    "name": "Entertainment"
+    "name": "React Course",
+    "picture": "https://www.courses.tutorialswebsite.com/assets/front/img/category/reactjs-banner.jpeg"
   },
   {
     "id": "06",
-    "name": "Culture"
-  },
-  {
-    "id": "07",
-    "name": "Arts"
-  },
-  {
-    "id": "08",
-    "name": "All News"
+    "name": "Tailwind Courses",
+    "picture": "https://ccweb.imgix.net/https%3A%2F%2Fimg.youtube.com%2Fvi%2FbxmDnn7lrnk%2Fhqdefault.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=9a89929ab76398e17f6dc6bac541665a"
   }
 ]
