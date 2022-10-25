@@ -2,31 +2,37 @@
   {
     "id": "01",
     "name": "Python Course",
-    "picture": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png"
+    "picture": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
+    "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
   },
   {
     "id": "02",
     "name": "Javascript Course",
-    "picture": "https://i0.wp.com/onlinecoursesgalore.com/wp-content/uploads/2018/01/best-javascript-programming-courses-online.jpg?ssl=1"
+    "picture": "https://i0.wp.com/onlinecoursesgalore.com/wp-content/uploads/2018/01/best-javascript-programming-courses-online.jpg?ssl=1",
+    "description": " JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well."
   },
   {
     "id": "03",
     "name": "C Course",
-    "picture": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png"
+    "picture": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
+    "description": "C is an imperative procedural language supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs"
   },
   {
     "id": "04",
     "name": "C+ Course",
-    "picture": "https://miro.medium.com/max/1200/1*oFfl-1UKLtd8XOswpwgriA.png"
+    "picture": "https://miro.medium.com/max/1200/1*oFfl-1UKLtd8XOswpwgriA.png",
+    "description": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms."
   },
   {
     "id": "05",
     "name": "React Course",
-    "picture": "https://www.courses.tutorialswebsite.com/assets/front/img/category/reactjs-banner.jpeg"
+    "picture": "https://www.courses.tutorialswebsite.com/assets/front/img/category/reactjs-banner.jpeg",
+    "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”"
   },
   {
     "id": "06",
     "name": "Tailwind Courses",
-    "picture": "https://ccweb.imgix.net/https%3A%2F%2Fimg.youtube.com%2Fvi%2FbxmDnn7lrnk%2Fhqdefault.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=9a89929ab76398e17f6dc6bac541665a"
+    "picture": "https://ccweb.imgix.net/https%3A%2F%2Fimg.youtube.com%2Fvi%2FbxmDnn7lrnk%2Fhqdefault.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=9a89929ab76398e17f6dc6bac541665a",
+    "description": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables"
   }
 ]
