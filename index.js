@@ -20,6 +20,12 @@ app.get('/courses/:id', (req, res) => {
     res.send(course)
 })
 
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const checkout = courses.find(rs => rs.id == id)
+    res.send(checkout)
+})
+
 
 app.listen(port, () => console.log('node is reaning', { port })
 )
